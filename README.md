@@ -27,7 +27,23 @@ Me gusta crear aplicaciones útiles y estoy en constante aprendizaje.
 - **Frameworks:** Flutter, Express, Ionic, JSf  
 - **Bases de datos:** PostgreSQL, MongoDB, MYSQL  
 - **Herramientas:** Git, GitHub, VS Code, Power BI, Eclipse, NetBeans
+---
 
+## 💼 Experiencia Profesional
+- **Soporte Técnico y Administración de Sistemas**
+  Mantenimiento de laboratorios de cómputo.
+  Instalación y gestión de plataformas digitales (WordPress, Windows Server, Linux).
+  Optimización de intranet clínica y formularios (login, registro, menús).
+
+-**Desarrollo Web y Programación**
+  Personalización de WordPress (temas, plugins, CSS/PHP).
+  Desarrollo con Python, AngularJS, Node.js, Flutter y Java.
+  Integración de bases de datos (PostgreSQL, MongoDB, SQL, Oracle).
+
+-**Gestión de Redes y Seguridad**
+  Administración de Active Directory y equipos de red.
+  Configuración de Cisco y MikroTik (Routing y Switches).
+  Implementación de infraestructura LAN/WAN y soluciones en Cloud.
 ---
 
 ## 📂 Proyectos destacados
